@@ -1,6 +1,6 @@
 # HNSW-Reverse-Image-Search
 <h2>Description:</h2>
-- An application that searches for the top 6 visually similar images from the HNSW database to a user's input image via url <br/>
+- An application that searches for the top 6 visually similar images from the HNSW database to a user's input image via URL <br/>
 - Training images from: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar <br/>
 - Documentation Video: <br/>
 - Note: This application is designed to run on Jupyter Notebook: https://jupyter.org/<br/>
